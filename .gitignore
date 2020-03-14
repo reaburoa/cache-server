@@ -2,3 +2,5 @@
 main
 tcpmain
 benchMark/main
+vendor
+go.sum
